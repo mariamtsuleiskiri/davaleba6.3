@@ -1,0 +1,48 @@
+.column1{
+    float:left;
+    width: 100%;
+    border: 2px solid black;
+    display: block;
+    width: 99.6%;
+    height: 268px;
+    clear: both;
+    border-bottom: 0px;
+}
+.column2{
+    float:left;
+    width: 33.3%;
+    border: 2px solid black;
+    display: block;
+    overflow: hidden;
+    box-sizing: border-box;
+    border-right: 0px;
+    height: 400px;
+}
+.column3{
+    float:left;
+    width: 33.3%;
+    border: 2px solid black;
+    display: block;
+    overflow: hidden;
+    box-sizing: border-box;
+    border-right: 0px;
+    height: 400px;
+}
+.column4{
+    float:left;
+    width: 33.3%;
+    border: 2px solid black;
+    display: block;
+    overflow: hidden;
+    box-sizing: border-box;
+    height: 400px;
+}
+.column5{
+    float:left;
+    width: 100%;
+    border: 2px solid black;
+    display: block;
+    width: 99.6%;
+    height: 150px;
+    border-top:0px;
+}
